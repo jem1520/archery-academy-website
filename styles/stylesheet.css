@@ -53,8 +53,8 @@
       justify-content: space-around;
     }
     .flexbox-content1 {
-      width: 200px;
-      padding: 20px 100px 50px 100px;
+      max-width: 300px;
+      padding: 20px 100px 50px 20px;
       border-style: solid none none none;
       border-color: #ecb722;
       border-width: 5px;
